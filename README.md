@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bilal</h1>
 <h3 align="center">Senior Software Engineer from Pakistan</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thebilz2" alt="thebilz2" /></a> </p>
-
 - 💬 Ask me about **MERN, React, Laravel, Node.js, PHP**
 
 - 📫 How to reach me **bilal.azam1@outlook.com**
