@@ -72,5 +72,5 @@
 <br />
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thebilz2&show_icons=true&locale=en&layout=donut" alt="thebilz2" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thebilz2&show_icons=true&locale=en&layout=pie" alt="thebilz2" />
 </p>
