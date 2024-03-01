@@ -10,18 +10,16 @@
 <br />
 
 <div align="center">
-
-![Jokowi](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thebilz2&theme=monokai)
-
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thebilz2" alt="thebilz2" />
 </div>
 
 <br />
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/bilal-azam-818637110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bilal-azam-818637110" height="30" width="40" /></a>
-<a href="https://instagram.com/billalazm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/billalazm" height="30" width="40" /></a>
-<a href="https://facebook.com/thebilz2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://facebook.com/thebilz2" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/bilal-azam-818637110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bilal-azam-818637110" height="30" width="40" /></a>
+    <a href="https://instagram.com/billalazm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/billalazm" height="30" width="40" /></a>
+    <a href="https://facebook.com/thebilz2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://facebook.com/thebilz2" height="30" width="40" /></a>
 </p>
 
 <br />
