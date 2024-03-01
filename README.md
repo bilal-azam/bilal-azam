@@ -5,7 +5,7 @@
 
 <p align="center">📫 How to reach me **bilal.azam1@outlook.com**</p>
 
-<p align="center">📄 Know about my experiences [https://www.linkedin.com/in/bilal-azam-818637110/](https://www.linkedin.com/in/bilal-azam-818637110/)</p>
+<p align="center">📄 Know about my experiences https://www.linkedin.com/in/bilal-azam-818637110</p>
 
 <br />
 
