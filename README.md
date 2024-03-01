@@ -10,7 +10,7 @@
 <br />
 
 <div align="center">
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thebilz2" alt="thebilz2" />
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bilal-azam" alt="bilal-azam" />
 </div>
 
 <br />
@@ -72,5 +72,5 @@
 <br />
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thebilz2&show_icons=true&locale=en&layout=pie" alt="thebilz2" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bilal-azam&show_icons=true&locale=en&layout=pie" alt="bilal-azam" />
 </p>
