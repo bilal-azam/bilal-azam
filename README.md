@@ -71,4 +71,8 @@
     <img src="./icons/tools/webpack.svg" style="width: auto; height: 50px"/>
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thebilz2&show_icons=true&locale=en&layout=compact" alt="thebilz2" /></p>
+<br />
+
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thebilz2&show_icons=true&locale=en&layout=donut" alt="thebilz2" />
+</p>
