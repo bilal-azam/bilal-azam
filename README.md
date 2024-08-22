@@ -10,7 +10,7 @@
 <br />
 
 <div align="center">
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bilal-azam" alt="bilal-azam" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bilal-azam&theme=algolia" alt="bilal-azam" />
 </div>
 
 <br />
