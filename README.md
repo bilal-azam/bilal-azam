@@ -69,8 +69,3 @@
     <img src="./icons/tools/webpack.svg" style="width: auto; height: 50px; margin-right:15px;"/>
 </p>
 
-<br />
-
-<p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bilal-azam&show_icons=true&locale=en&layout=pie" alt="bilal-azam" />
-</p>
