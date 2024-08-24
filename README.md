@@ -10,7 +10,6 @@
 <br />
 
 <div align="center">
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bilal-azam&theme=algolia" />
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bilal-azam&theme=algolia" alt="bilal-azam" />
 </div>
 
