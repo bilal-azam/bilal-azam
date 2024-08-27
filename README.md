@@ -6,15 +6,19 @@
 <p align="center">📫 How to reach me **bilal.azam1@outlook.com**</p>
 
 <p align="center">📄 Know about my experiences https://www.linkedin.com/in/bilal-azam-818637110</p>
-
-<br />
-
 <div align="center">
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bilal-azam&theme=algolia" alt="bilal-azam" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bilal-azam&theme=tokyonight" alt="mystreak"/>
 </div>
-
+<div align="center">
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bilal-azam&theme=tokyonight" alt="bilal-azam" />
+</div>
 <br />
-
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=bilal-azam&theme=juicyfresh&no-bg=true" />
+</div>
+<div align="center">
+    <img src="https://github-readme-stackoverflow.vercel.app/?userID=2622118&theme=juicyfresh&no-bg=true" />
+</div>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
     <a href="https://www.linkedin.com/in/bilal-azam-818637110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bilal-azam-818637110" height="30" width="40" /></a>
