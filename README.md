@@ -25,8 +25,8 @@
 <h3 align="center">LANGUAGES 👨‍💻 🛠</h3>
 
 <p align="left">
-    <img src="./icons/languages/bootstrap.svg" style="width: auto; height: 50px; margin-right:15px;"/>
-    <img src="./icons/languages/codeignitor.svg" style="width: auto; height: 50px; margin-right:15px;"/>
+    <img src="./icons/languages/bootstrap.png" style="width: auto; height: 50px; margin-right:15px;"/>
+    <img src="./icons/languages/codeignitor.png" style="width: auto; height: 50px; margin-right:15px;"/>
     <img src="./icons/languages/css3.svg" style="width: auto; height: 50px; margin-right:15px;"/>
     <img src="./icons/languages/express.svg" style="width: auto; height: 50px; margin-right:15px;"/>
     <img src="./icons/languages/html5.svg" style="width: auto; height: 50px; margin-right:15px;"/>
