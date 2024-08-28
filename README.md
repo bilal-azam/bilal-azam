@@ -1,13 +1,18 @@
 <h1 align="center">Hi 👋, I'm Bilal</h1>
 <h3 align="center">Senior Software Engineer from Pakistan</h3>
-
+<div align="left">
+    
+</div>
 <p align="center">💬 Ask me about **MERN, React, Laravel, Node.js, PHP**</p>
 
 <p align="center">📫 How to reach me **bilal.azam1@outlook.com**</p>
 
 <p align="center">📄 Know about my experiences https://www.linkedin.com/in/bilal-azam-818637110</p>
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bilal-azam&theme=tokyonight" alt="mystreak"/>
+     <img src="https://myreadme.vercel.app/api/embed/bilal-azam?panels=userstatistics,toplanguages,commitgraph" alt="bilal-azam" />
+</div>
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bilal-azam&theme=tokyonight" alt="bilal-azam"/>
 </div>
 <div align="center">
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bilal-azam&theme=tokyonight" alt="bilal-azam" />
@@ -16,21 +21,10 @@
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=bilal-azam&theme=juicyfresh&no-bg=true" />
 </div>
-<div align="center">
-    <img src="https://github-readme-stackoverflow.vercel.app/?userID=2622118&theme=juicyfresh&no-bg=true" />
-</div>
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-    <a href="https://www.linkedin.com/in/bilal-azam-818637110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bilal-azam-818637110" height="30" width="40" /></a>
-    <a href="https://instagram.com/billalazm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/billalazm" height="30" width="40" /></a>
-    <a href="https://facebook.com/thebilz2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://facebook.com/thebilz2" height="30" width="40" /></a>
-</p>
-
-<br />
 
 <h3 align="center">LANGUAGES 👨‍💻 🛠</h3>
 
-<p align="center">
+<p align="left">
     <img src="./icons/languages/bootstrap.svg" style="width: auto; height: 50px; margin-right:15px;"/>
     <img src="./icons/languages/codeignitor.svg" style="width: auto; height: 50px; margin-right:15px;"/>
     <img src="./icons/languages/css3.svg" style="width: auto; height: 50px; margin-right:15px;"/>
