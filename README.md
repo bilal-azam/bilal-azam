@@ -12,10 +12,10 @@
      <img src="https://myreadme.vercel.app/api/embed/bilal-azam?panels=userstatistics,toplanguages,commitgraph" alt="bilal-azam" />
 </div>
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bilal-azam&theme=tokyonight" alt="bilal-azam"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bilal-azam&theme=juicyfresh" alt="bilal-azam"/>
 </div>
 <div align="center">
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bilal-azam&theme=tokyonight" alt="bilal-azam" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bilal-azam&theme=juicyfresh" alt="bilal-azam" />
 </div>
 <br />
 <div align="center">
@@ -24,23 +24,8 @@
 
 <h3 align="center">LANGUAGES 👨‍💻 🛠</h3>
 
-<p align="left">
-    <img src="./icons/languages/bootstrap.png" style="width: auto; height: 50px; margin-right:15px;"/>
-    <img src="./icons/languages/codeignitor.png" style="width: auto; height: 50px; margin-right:15px;"/>
-    <img src="./icons/languages/css3.svg" style="width: auto; height: 50px; margin-right:15px;"/>
-    <img src="./icons/languages/express.svg" style="width: auto; height: 50px; margin-right:15px;"/>
-    <img src="./icons/languages/html5.svg" style="width: auto; height: 50px; margin-right:15px;"/>
-    <img src="./icons/languages/javascript.svg" style="width: auto; height: 50px; margin-right:15px;"/>
-    <img src="./icons/languages/laravel.svg" style="width: auto; height: 50px; margin-right:15px;"/>
-    <img src="./icons/languages/next.svg" style="width: auto; height: 50px; margin-right:15px;"/>
-    <img src="./icons/languages/nodejs.svg" style="width: auto; height: 50px; margin-right:15px;"/>
-    <img src="./icons/languages/PHP.svg" style="width: auto; height: 50px; margin-right:15px;"/>
-    <img src="./icons/languages/react.svg" style="width: auto; height: 50px; margin-right:15px;"/>
-    <img src="./icons/languages/redux.svg" style="width: auto; height: 50px; margin-right:15px;"/>
-    <img src="./icons/languages/sass.svg" style="width: auto; height: 50px; margin-right:15px;"/>
-    <img src="./icons/languages/tailwind.svg" style="width: auto; height: 50px; margin-right:15px;"/>
-    <img src="./icons/languages/typescript.svg" style="width: auto; height: 50px; margin-right:15px;"/>
-    <img src="./icons/languages/vuejs.svg" style="width: auto; height: 50px; margin-right:15px;"/>
+<p align="left" style="width: 50%; height: auto;">
+    <img src="./icons/languages.png" />
 </p>
 
 <br />
