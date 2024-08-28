@@ -15,40 +15,59 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=bilal-azam&theme=juicyfresh" alt="bilal-azam"/>
 </div>
 <div align="center">
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bilal-azam&theme=juicyfresh" alt="bilal-azam" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bilal-azam&theme=tokyonight" alt="bilal-azam" />
 </div>
 <br />
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=bilal-azam&theme=juicyfresh&no-bg=true" />
 </div>
-
-<h3 align="center">LANGUAGES 👨‍💻 🛠</h3>
-
-<p align="left" style="width: 50%; height: auto;">
-    <img src="./icons/languages.png" />
-</p>
-
-<br />
-
-<h3 align="center">TOOLS 👨‍💻 🛠</h3>
-
-<p align="center">
-    <img src="./icons/tools/aws.svg" style="width: auto; height: 50px; margin-right:15px;"/>
-    <img src="./icons/tools/babel.svg" style="width: auto; height: 50px; margin-right:15px;"/>
-    <img src="./icons/tools/cypress.svg" style="width: auto; height: 50px; margin-right:15px;"/>
-    <img src="./icons/tools/docker.svg" style="width: auto; height: 50px; margin-right:15px;"/>
-    <img src="./icons/tools/figma.svg" style="width: auto; height: 50px; margin-right:15px;"/>
-    <img src="./icons/tools/firease.svg" style="width: auto; height: 50px; margin-right:15px;"/>
-    <img src="./icons/tools/git.svg" style="width: auto; height: 50px; margin-right:15px;"/>
-    <img src="./icons/tools/illustrator.svg" style="width: auto; height: 50px; margin-right:15px;"/>
-    <img src="./icons/tools/jenkins.svg" style="width: auto; height: 50px; margin-right:15px;"/>
-    <img src="./icons/tools/linux.svg" style="width: auto; height: 50px; margin-right:15px;"/>
-    <img src="./icons/tools/mongodb.svg" style="width: auto; height: 50px; margin-right:15px;"/>
-    <img src="./icons/tools/mysql.svg" style="width: auto; height: 50px; margin-right:15px;"/>
-    <img src="./icons/tools/nginx.svg" style="width: auto; height: 50px; margin-right:15px;"/>
-    <img src="./icons/tools/photoshop.svg" style="width: auto; height: 50px; margin-right:15px;"/>
-    <img src="./icons/tools/postgresql.svg" style="width: auto; height: 50px; margin-right:15px;"/>
-    <img src="./icons/tools/redis.svg" style="width: auto; height: 50px; margin-right:15px;"/>
-    <img src="./icons/tools/webpack.svg" style="width: auto; height: 50px; margin-right:15px;"/>
-</p>
-
+<div align="center">
+    <table>
+         <tr>
+            <td><h3 align="center">LANGUAGES 👨‍💻 🛠</h3></td>
+            <td><h3 align="center">TOOLS 👨‍💻 🛠</h3></td>
+         </tr>
+         <tr>
+             <td>
+                 <ul>
+                     <li>Javascript</li>
+                     <li>Typescript</li>
+                     <li>Node.js</li>
+                     <li>Next.js</li>
+                     <li>React.js</li>
+                     <li>Express.js</li>
+                     <li>Redux</li>
+                     <li>Vue.js</li>
+                     <li>Laravel</li>
+                     <li>Tailwind</li>
+                     <li>Sass</li>
+                     <li>HTML</li>
+                     <li>CSS</li>
+                     <li>Bootstrap</li>
+                     <li>CodeIgnitor</li>
+                     <li>PHP</li>
+                 </ul>
+             </td>
+             <td>
+                 <ul>
+                     <li>AWS</li>
+                     <li>Babel</li>
+                     <li>Cypress</li>
+                     <li>Docker</li>
+                     <li>Figma</li>
+                     <li>Firebase</li>
+                     <li>Git</li>
+                     <li>Illustrator</li>
+                     <li>Jenkins</li>
+                     <li>Linux</li>
+                     <li>MongoDB</li>
+                     <li>MySQL</li>
+                     <li>NGINX</li>
+                     <li>Photoshop</li>
+                     <li>PostgreSQL</li>
+                     <li>Redis</li>
+                 </ul>
+             </td>
+         </tr>
+    </table>
+</div>
