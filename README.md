@@ -21,53 +21,11 @@
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=bilal-azam&theme=juicyfresh&no-bg=true" />
 </div>
-<div align="center">
-    <table>
-         <tr>
-            <td><h3 align="center">LANGUAGES 👨‍💻 🛠</h3></td>
-            <td><h3 align="center">TOOLS 👨‍💻 🛠</h3></td>
-         </tr>
-         <tr>
-             <td>
-                 <ul>
-                     <li>Javascript</li>
-                     <li>Typescript</li>
-                     <li>Node.js</li>
-                     <li>Next.js</li>
-                     <li>React.js</li>
-                     <li>Express.js</li>
-                     <li>Redux</li>
-                     <li>Vue.js</li>
-                     <li>Laravel</li>
-                     <li>Tailwind</li>
-                     <li>Sass</li>
-                     <li>HTML</li>
-                     <li>CSS</li>
-                     <li>Bootstrap</li>
-                     <li>CodeIgnitor</li>
-                     <li>PHP</li>
-                 </ul>
-             </td>
-             <td>
-                 <ul>
-                     <li>AWS</li>
-                     <li>Babel</li>
-                     <li>Cypress</li>
-                     <li>Docker</li>
-                     <li>Figma</li>
-                     <li>Firebase</li>
-                     <li>Git</li>
-                     <li>Illustrator</li>
-                     <li>Jenkins</li>
-                     <li>Linux</li>
-                     <li>MongoDB</li>
-                     <li>MySQL</li>
-                     <li>NGINX</li>
-                     <li>Photoshop</li>
-                     <li>PostgreSQL</li>
-                     <li>Redis</li>
-                 </ul>
-             </td>
-         </tr>
-    </table>
+<div align="left">
+    <p>LANGUAGES 👨‍💻 🛠:</p>
+    <p>Javascript, Typescript, Node.js, Next.js, React.js, Express.js, Redux, Vue.js, Laravel, Tailwind, Sass, HTML, CSS, Bootstrap, CodeIgnitor, PHP</p>
+</div>
+<div align="left">
+    <p>TOOLS 👨‍💻 🛠:</p>
+    <p>AWS, Babel, Cypress, Docker, Figma, Firebase, Git, Illustrator, Jenkins, Linux, MongoDB, MySQL, NGINX, Photoshop, PostgreSQL, Redis</p>
 </div>
