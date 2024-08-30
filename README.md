@@ -21,6 +21,8 @@
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=bilal-azam&theme=juicyfresh&no-bg=true" />
 </div>
+<br />
+<br />
 <div align="left">
     <p>LANGUAGES 👨‍💻 🛠:</p>
     <p>Javascript, Typescript, Node.js, Next.js, React.js, Express.js, Redux, Vue.js, Laravel, Tailwind, Sass, HTML, CSS, Bootstrap, CodeIgnitor, PHP</p>
