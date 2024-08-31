@@ -25,9 +25,9 @@
 <br />
 <div align="left">
     <p>LANGUAGES 👨‍💻 🛠:</p>
-    <p>Javascript, Typescript, Node.js, Next.js, React.js, Express.js, Redux, Vue.js, Laravel, Tailwind, Sass, HTML, CSS, Bootstrap, CodeIgnitor, PHP</p>
+    <p>Javascript | Typescript | Node.js | Next.js | React.js | Express.js | Redux | Vue.js | Laravel | Tailwind | Sass | HTML | CSS | Bootstrap | CodeIgnitor | PHP</p>
 </div>
 <div align="left">
     <p>TOOLS 👨‍💻 🛠:</p>
-    <p>AWS, Babel, Cypress, Docker, Figma, Firebase, Git, Illustrator, Jenkins, Linux, MongoDB, MySQL, NGINX, Photoshop, PostgreSQL, Redis</p>
+    <p>AWS | Babel | Cypress | Docker | Figma | Firebase | Git | Illustrator | Jenkins | Linux | MongoDB | MySQL | NGINX | Photoshop | PostgreSQL | Redis</p>
 </div>
