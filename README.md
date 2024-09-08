@@ -9,17 +9,17 @@
 
 <p align="center">📄 Know about my experiences https://www.linkedin.com/in/bilal-azam-818637110</p>
 <div align="center">
-     <img src="https://myreadme.vercel.app/api/embed/bilal-azam?panels=userstatistics,toplanguages,commitgraph" alt="bilal-azam" />
+     <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=bilal-azam&include_orgs=true" alt="bilal-azam" />
 </div>
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bilal-azam&theme=juicyfresh" alt="bilal-azam"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bilal-azam&theme=github" alt="bilal-azam"/>
 </div>
 <div align="center">
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bilal-azam&theme=tokyonight" alt="bilal-azam" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bilal-azam&theme=github" alt="bilal-azam" />
 </div>
 <br />
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=bilal-azam&theme=juicyfresh&no-bg=true" />
+    <img src="https://github-profile-trophy.vercel.app/?username=bilal-azam&theme=github&no-bg=true" />
 </div>
 <br />
 <br />
